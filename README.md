@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="right">
+<div align="left">
  
 🚀 Muhammad Asim: Full Stack MERN & Blockchain Developer
 
